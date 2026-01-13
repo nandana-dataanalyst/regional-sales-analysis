@@ -13,4 +13,11 @@ Analyzed 4 years of retail sales data across four regions (West, East, Central, 
 - Power BI: interactive dashboard with region/year filters
 
 ## Dashboard Screenshots
+### Executive Overview
+![Executive Overview](overview.png)
 
+### Regional Performance Trend
+![Regional Trend](region_trend.png)
+
+### Product Mix Comparison
+![Product Mix](product_mix.png)
