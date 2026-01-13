@@ -1,13 +1,16 @@
-# Regional Sales Performance Analysis
-This project analyzes 4 years of sales data across four regions (West, East, Central, South) to identify revenue concentration, product performance, and regional weaknesses.
+# Regional Sales Performance Analysis (Excel + Power BI)
 
-## Key Insights
-- West and East generate over 60% of total revenue
-- South is the weakest region due to lack of strong product categories
-- Product strength drives customer performance more than sales effort
+## Overview
+Analyzed 4 years of retail sales data across four regions (West, East, Central, South) to identify revenue concentration, product mix gaps, and performance drivers.
 
-## Tools Used
-- Excel (Pivot tables, charts, analysis)
-- Power BI (dashboard)
+## Key Findings
+- West is the top-performing region (~32% of total sales); South is the weakest (~17%).
+- West shows steadier growth over time; South dropped sharply around 2016 and partially recovered.
+- Product mix gaps (Phones, Chairs, Tables, Storage) explain much of the West vs South performance difference, indicating a product strategy issue rather than customer concentration.
 
-This project was created as part of my Data Analyst portfolio.
+## Tools
+- Excel: data cleaning, pivot tables, charts, executive summary sheets
+- Power BI: interactive dashboard with region/year filters
+
+## Dashboard Screenshots
+
